@@ -7,3 +7,7 @@ Run the app with `npm start`. It can be accessed at [http://localhost:8080](loca
 ### Setup
 
 Small React playground that uses TypeScript and webpack
+
+#### Data
+
+There is some sample data available in `data`
